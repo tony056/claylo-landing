@@ -40,23 +40,23 @@ features                                  :
 
   - title                                 : Share your progress in seconds
     description                           : Post updates with beautiful, ready-to-share templates — no formatting, no fuss.
-    fontawesome_icon_name                 : fa-image
+    fontawesome_icon_name                 : image
     
   - title                                 : All your latest updates, one tap away
     description                           : Your most recent changes are collected in Highlights, so you can share them instantly.
-    fontawesome_icon_name                 : fa-clock-rotate-left
+    fontawesome_icon_name                 : clock-rotate-left
 
   - title                                 : Organize by tags, stages, or both
     description                           : Structure your pieces your way — by firing stage, type, glaze, or anything else that matters to you.
-    fontawesome_icon_name                 : fa-tags
+    fontawesome_icon_name                 : tags
 
   - title                                 : We help you capture the little details
     description                           : While you create, Claylo gently fills in the blanks — so you can stay in flow.
-    fontawesome_icon_name                 : fa-magic-wand-sparkles
+    fontawesome_icon_name                 : magic-wand-sparkles
 
   - title                                 : Watch your collection grow
     description                           : See every piece you’ve made, beautifully arranged and easy to browse.
-    fontawesome_icon_name                 : fa-table-cells-large
+    fontawesome_icon_name                 : table-cells-large
   
   # - title                                 : Feature List
   #   description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
