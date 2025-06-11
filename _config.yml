@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Tony Tung                                
-your_link                                 : https://tony056.github.io/                    
+your_link                                 : https://www.linkedin.com/in/tony056/                    
 your_city                                 : San Francisco                                
 email_address                             : tony61507@gmail.com
 linkedin_username                         :                                           
@@ -29,7 +29,7 @@ linkedin_company                          :
 facebook_username                         :                                           
 instagram_username                        : tonytung056
 twitter_username                          : 
-github_username                           : tony056
+github_username                           :
 youtube_username                          :
 mastodon_link                             :
 
@@ -81,8 +81,8 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_color                              : "#5D4037"
+topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
@@ -102,13 +102,13 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#795548"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#5D4037"
 
 
 
